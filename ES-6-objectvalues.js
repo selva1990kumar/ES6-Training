@@ -1,4 +1,6 @@
+//30032018
 //Short Hand Property in ES6
+
 //ES6
 let selva = "firstValue";
 let kumar = "secondValue";
